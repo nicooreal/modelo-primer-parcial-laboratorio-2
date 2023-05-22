@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1653599131 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.cpp
+	<cstring>
+	<iostream>
+	"estudiante.h"
+
+1653599228 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.h
+	<string>
+	"fecha.h"
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.h
+	<string>
+
+1653599352 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"examen.h"
+
+1653599245 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.h
+	<string>
+	"fecha.h"
+
+1652994026 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1653599970 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+	"examen.h"
+
+1665086500 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665085935 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.h
+	<string>
+
+1665086935 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665086934 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.h
+	"Estudiante.h"
+
+1665086361 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1653599245 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.h
+	<string>
+	"fecha.h"
+
+1665086425 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examenesarchivo.cpp
+	"ExamensArchivo.h"
+
+1665086371 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examensarchivo.h
+	"Examen.h"
+
+1652994026 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1684418828 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1684417912 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\fecha.h
+	<string>
+
+1684419294 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1684417947 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\estudiantesarchivo.h
+	"Estudiante.h"
+
+1684419826 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1684419782 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\examen.h
+	<string>
+	"fecha.h"
+
+1684419811 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\examenesarchivo.cpp
+	"ExamenesArchivo.h"
+	<iostream>
+
+1684419802 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\examenesarchivo.h
+	"Examen.h"
+
+1652994026 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1684503414 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\main.cpp
+	<iostream>
+	"Estudiante.h"
+	"ModeloParcial1.h"
+	"EstudiantesArchivo.h"
+	"ExamenesArchivo.h"
+
+1684421060 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\include\modeloparcial1.h
+
+1684503429 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloparcialcb\modeloparcial1.cpp
+	"ModeloParcial1.h"
+	"Fecha.h"
+	"ExamenesArchivo.h"
+	"Examen.h"
+	"Estudiante.h"
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1684418828 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1684417912 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\fecha.h
+	<string>
+
+1684419294 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1684417947 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\estudiantesarchivo.h
+	"Estudiante.h"
+
+1684419826 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1684419782 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\examen.h
+	<string>
+	"fecha.h"
+
+1684419811 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\examenesarchivo.cpp
+	"ExamenesArchivo.h"
+	<iostream>
+
+1684419802 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\examenesarchivo.h
+	"Examen.h"
+
+1652994026 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1684503429 source:c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\modeloparcial1.cpp
+	"ModeloParcial1.h"
+	"Fecha.h"
+	"ExamenesArchivo.h"
+	"Examen.h"
+	"Estudiante.h"
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1684421060 c:\users\nico\documents\utn\laboratorio 2\modelo primer parcial\modeloprimerparcial\include\modeloparcial1.h
+
